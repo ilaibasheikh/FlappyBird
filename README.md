@@ -1,2 +1,2 @@
 # FlappyBird
- develoed in Unity
+ developed in Unity
